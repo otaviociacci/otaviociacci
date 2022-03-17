@@ -1,4 +1,3 @@
-### Olá! Eu sou o Otávio Ciacc 🤙
 ### Olá! Eu sou o Otávio Ciacci 🤙
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otavio.c.lopes/)
 
