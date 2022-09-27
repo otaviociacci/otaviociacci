@@ -6,7 +6,6 @@
 [![Group](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/otavio_ciacci)
 
 ![Otávio GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviociacci&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviociacci&layout=compact&icons=true&theme=gruvbox)](https://github.com/otaviociacci/github-readme-stats)
  
 ## Ferramentas e Tecnologias:
 
